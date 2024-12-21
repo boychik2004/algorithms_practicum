@@ -4,7 +4,9 @@
 ```Mysql
  python fib_recursive.py
 ```
-[fib_timing_results.xlsx](https://github.com/user-attachments/files/18218533/fib_timing_results.xlsx)
+## Результаты тестирования 
+![image](https://github.com/user-attachments/assets/258c8a1a-be48-44d7-a13f-a71d900bfa95)
+
 
 
 
