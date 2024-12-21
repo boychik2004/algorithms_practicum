@@ -40,6 +40,14 @@
 ![image](https://github.com/user-attachments/assets/8461b42f-1cd9-424d-903e-6bee10b54ef6)
 
 # Задачи по алгоритмам Хаффмана
+1. Кодирование строки по алгоритму Хаффмана
+Что-бы проверить и запустить файл huffman_encoding пропишите в консоль:
+```Mysql
+ python huffman_encoding.py
+```
+## Результаты тестирования будут такими:
+![image](https://github.com/user-attachments/assets/9a17c725-f1e1-483e-86b8-08c9735f899e)
+
 
 
 
