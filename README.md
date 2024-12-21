@@ -5,7 +5,8 @@
  python fib_recursive.py
 ```
 ## Результаты тестирования 
-![image](https://github.com/user-attachments/assets/258c8a1a-be48-44d7-a13f-a71d900bfa95)
+![image](https://github.com/user-attachments/assets/9af60bfb-c12c-4b38-b30b-3091a9e3e492)
+
 
 
 
