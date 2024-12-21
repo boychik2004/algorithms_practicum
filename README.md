@@ -15,6 +15,16 @@
 ## Результаты тестирования 
 ![image](https://github.com/user-attachments/assets/e3a9b12b-858a-41cb-a60b-64baa34ff255)
 
+3. Вычисление n-го числа Фибоначчи с записью числового ряда в массив
+Что-бы проверить и запустить файл fib_array пропишите в консоль:
+```Mysql
+ python fib_array.py
+```
+## Результаты тестирования 
+![image](https://github.com/user-attachments/assets/bea32740-8b31-427b-ae88-2272e8a29675)
+
+
+
 
 
 
