@@ -23,6 +23,17 @@
 ## Результаты тестирования 
 ![image](https://github.com/user-attachments/assets/bea32740-8b31-427b-ae88-2272e8a29675)
 
+4. Вычисление n-го числа Фибоначчи при помощи формулы Бине
+Что-бы проверить и запустить файл fib_binet пропишите в консоль:
+```Mysql
+ python fib_binet.py
+```
+## Результаты тестирования к примеру n = 32 должно получиться число 2178309
+![image](https://github.com/user-attachments/assets/77776f2a-4986-46b2-afee-e616e6f083fd)
+
+
+
+
 
 
 
