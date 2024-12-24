@@ -7,14 +7,13 @@
 ## Результаты тестирования 
 ![image](https://github.com/user-attachments/assets/64f1e108-cbb2-4c7d-8c9e-967564d118a6)
 
-
 2. Вычисление n-го числа Фибоначчи с использованием цикла
 Что-бы проверить и запустить файл fib_loop пропишите в консоль:
 ```Mysql
  python fib_loop.py
 ```
 ## Результаты тестирования 
-![image](https://github.com/user-attachments/assets/e3a9b12b-858a-41cb-a60b-64baa34ff255)
+![image](https://github.com/user-attachments/assets/570ecb01-55df-410d-bd56-2d55c3eed6b0)
 
 3. Вычисление n-го числа Фибоначчи с записью числового ряда в массив
 Что-бы проверить и запустить файл fib_array пропишите в консоль:
