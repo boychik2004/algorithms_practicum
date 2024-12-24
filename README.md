@@ -5,7 +5,8 @@
  python fib_recursive.py
 ```
 ## Результаты тестирования 
-![image](https://github.com/user-attachments/assets/9af60bfb-c12c-4b38-b30b-3091a9e3e492)
+![image](https://github.com/user-attachments/assets/64f1e108-cbb2-4c7d-8c9e-967564d118a6)
+
 
 2. Вычисление n-го числа Фибоначчи с использованием цикла
 Что-бы проверить и запустить файл fib_loop пропишите в консоль:
