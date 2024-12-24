@@ -16,8 +16,8 @@ def measure_execution_time():
         start_time = time.perf_counter()
         result = fib(n)
         end_time = time.perf_counter()
-        elapsed_time = (end_time - start_time) * 1000  # Перевод в миллисекунды
-        print(f"fib({n}) = {result}, time: {elapsed_time:.3f} ms")  # Три знака после запятой
+        elapsed_time = (end_time - start_time) * 1000  
+        print(f"fib({n}) = {result}, time: {elapsed_time:.3f} ms")  
 
 if __name__ == "__main__":
     measure_execution_time()
