@@ -5,7 +5,7 @@
  python fib_recursive.py
 ```
 ## Результаты тестирования 
-![image](https://github.com/user-attachments/assets/9af60bfb-c12c-4b38-b30b-3091a9e3e492)
+![image](https://github.com/user-attachments/assets/64f1e108-cbb2-4c7d-8c9e-967564d118a6)
 
 2. Вычисление n-го числа Фибоначчи с использованием цикла
 Что-бы проверить и запустить файл fib_loop пропишите в консоль:
@@ -13,7 +13,7 @@
  python fib_loop.py
 ```
 ## Результаты тестирования 
-![image](https://github.com/user-attachments/assets/e3a9b12b-858a-41cb-a60b-64baa34ff255)
+![image](https://github.com/user-attachments/assets/570ecb01-55df-410d-bd56-2d55c3eed6b0)
 
 3. Вычисление n-го числа Фибоначчи с записью числового ряда в массив
 Что-бы проверить и запустить файл fib_array пропишите в консоль:
@@ -51,7 +51,7 @@
 2.Декодирование строки по алгоритму Хаффмана
 Что-бы проверить и запустить файл huffman_decode пропишите в консоль:
 ```Mysql
- python huffman_decode.py
+ python huffman_decoding.py
 ```
 ## Результаты тестирования будут такими:
 ## В результате выполнения, функция huffman_decode() должна вывести на экран строку, которая была закодирована изначально:
